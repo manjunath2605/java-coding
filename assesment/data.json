@@ -1,0 +1,138 @@
+[
+  {
+    "id": "1",
+    "name": "Niranjan",
+    "gender": "M",
+    "email": "niranjan@abc.com",
+    "contactNumber": "+91-8888123490",
+    "createdOn": "17/09/2016 10:30:00",
+    "address": {
+      "street": "DLF",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "INDIA",
+      "zipCode": "600089"
+    }
+  },
+  {
+    "id" : "2",
+    "name" : "Ram",
+    "gender" : "M",
+    "email" : "ram@abc.com",
+    "contactNumber" : "91-7485857897",
+    "createdOn" : "04/07/2019 10:30:00",
+    "address" : {
+      "street" : "KIADB",
+      "city" : "Mysuru",
+      "state" : "Karnataka",
+      "country" : "INDIA",
+      "zipCode" : "570018"
+    }
+  },
+    {
+    "id" : "3",
+    "name" : "Manju",
+    "gender" : "M",
+    "email" : "manju@abc.com",
+    "contactNumber" : "91-7485857897",
+    "createdOn" : "07/06/2018 10:30:00",
+    "address" : {
+      "street" : "KIADB",
+      "city" : "Bengaluru",
+      "state" : "Karnataka",
+      "country" : "INDIA",
+      "zipCode" : "570090"
+    }
+  },
+    {
+    "id" : "4",
+    "name" : "Rakesh",
+    "gender" : "M",
+    "email" : "rakesh@abc.com",
+    "contactNumber" : "91-7485857897",
+    "createdOn" : "10/07/2009 10:30:00",
+    "address" : {
+      "street" : "KIADB",
+      "city" : "Belgavi",
+      "state" : "Karnataka",
+      "country" : "INDIA",
+      "zipCode" : "571118"
+    }
+  },
+    {
+    "id" : "5",
+    "name" : "Vinay",
+    "gender" : "M",
+    "email" : "vinay@abc.com",
+    "contactNumber" : "91-7485857897",
+    "createdOn" : "12/07/2020 10:30:00",
+    "address" : {
+      "street" : "KIADB",
+      "city" : "Chikodi",
+      "state" : "Karnataka",
+      "country" : "INDIA",
+      "zipCode" : "670018"
+    }
+  },
+    {
+    "id" : "6",
+    "name" : "Vijay",
+    "gender" : "M",
+    "email" : "vijay@abc.com",
+    "contactNumber" : "91-7485857897",
+    "createdOn" : "03/11/2012 10:30:00",
+    "address" : {
+      "street" : "KIADB",
+      "city" : "Laxmi Nagar",
+      "state" : "Karnataka",
+      "country" : "INDIA",
+      "zipCode" : "570108"
+    }
+  },
+    {
+    "id" : "7",
+    "name" : "Akshay",
+    "gender" : "M",
+    "email" : "akshay@abc.com",
+    "contactNumber" : "91-7485857897",
+    "createdOn" : "12/01/2011 10:30:00",
+    "address" : {
+      "street" : "KIADB",
+      "city" : "Hubli",
+      "state" : "Karnataka",
+      "country" : "INDIA",
+      "zipCode" : "570009"
+    }
+  }
+ ,
+   {
+    "id" : "8",
+    "name" : "Shreedhar",
+    "gender" : "M",
+    "email" : "shreedhar@abc.com",
+    "contactNumber" : "91-7485857897",
+    "createdOn" : "09/04/2000 10:30:00",
+    "address" : {
+      "street" : "KIADB",
+      "city" : "Gulbarga",
+      "state" : "Karnataka",
+      "country" : "INDIA",
+      "zipCode" : "570000"
+    }
+  },
+    {
+    "id" : "9",
+    "name" : "Abhi",
+    "gender" : "M",
+    "email" : "abhi@abc.com",
+    "contactNumber" : "91-7485857897",
+    "createdOn" : "01/01/2014 10:30:00",
+    "address" : {
+      "street" : "KIADB",
+      "city" : "Chikodi",
+      "state" : "Karnataka",
+      "country" : "INDIA",
+      "zipCode" : "570118"
+    }
+  }
+]
